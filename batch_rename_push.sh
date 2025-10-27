@@ -5,8 +5,8 @@
 
 # ================= 配置 =================
 # 只需修改这里的数组即可
-OLD_FOLDERS=("04+ipv6-ssl-证书申请" "3K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "03+vps一键脚本-Github")
-NEW_FOLDERS=("003+ipv6-ssl-证书申请" "0063K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "007+vps一键脚本-Github")
+OLD_FOLDERS=("3x-ui-main" "0063K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "CM大神-edgetunnel-main")
+NEW_FOLDERS=("004+3x-ui-main" "006+3K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "008+CM大神-edgetunnel-main")
 # ========================================
 
 # 切换到脚本所在目录（仓库根目录）
