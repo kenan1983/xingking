@@ -2,8 +2,8 @@
 # 只改本地文件夹名称并提交到 GitHub
 
 # ================= 配置 =================
-OLD_FOLDERS=("3x-ui-main" "0063K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "CM大神-edgetunnel-main")
-NEW_FOLDERS=("004+3x-ui-main" "006+3K大神EDtunnel是一个基于 Cloudflare Workers 和 Pages 的代理工具" "008+CM大神-edgetunnel-main")
+OLD_FOLDERS=("cloudflaremail邮箱" "CloudFlare图床" "勇哥+ArgoSBX一键无交互小钢炮脚本")
+NEW_FOLDERS=("005+cloudflaremail邮箱" "009+CloudFlare图床" "010+勇哥+ArgoSBX一键无交互小钢炮脚本")
 # ========================================
 
 cd "$(dirname "$0")"  # 切换到脚本所在目录
