@@ -2,8 +2,8 @@
 # 只改本地文件夹名称并提交到 GitHub
 
 # ================= 配置 =================
-OLD_FOLDERS=("014+手机+电脑+scrcpy安卓" "015+手机+电脑+QtScrcpy" "016+手机+电脑+escrcpy")
-NEW_FOLDERS=("016+手机+电脑+scrcpy安卓" "014+手机+电脑+QtScrcpy" "015+手机+电脑+escrcpy")
+OLD_FOLDERS=("代理软件+ClashX.Meta-master" "安卓Clash Meta For Android" "代理软件+mihomo-main")
+NEW_FOLDERS=("017+代理软件+ClashX.Meta-master" "018+安卓Clash Meta For Android" "019+代理软件+mihomo-main")
 # ========================================
 
 cd "$(dirname "$0")"  # 切换到脚本所在目录
