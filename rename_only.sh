@@ -2,8 +2,8 @@
 # 只改本地文件夹名称并提交到 GitHub
 
 # ================= 配置 =================
-OLD_FOLDERS=("cloudflaremail邮箱" "CloudFlare图床" "勇哥+ArgoSBX一键无交互小钢炮脚本")
-NEW_FOLDERS=("005+cloudflaremail邮箱" "009+CloudFlare图床" "010+勇哥+ArgoSBX一键无交互小钢炮脚本")
+OLD_FOLDERS=("BPB面板搭建" "IDM激活脚本" "05+Cloudflare Snippets 搭建永久免费节点")
+NEW_FOLDERS=("011+BPB面板搭建" "012+IDM激活脚本" "013+Cloudflare Snippets 搭建永久免费节点")
 # ========================================
 
 cd "$(dirname "$0")"  # 切换到脚本所在目录
