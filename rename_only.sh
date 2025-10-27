@@ -2,8 +2,8 @@
 # 只改本地文件夹名称并提交到 GitHub
 
 # ================= 配置 =================
-OLD_FOLDERS=("手机+电脑+scrcpy安卓zip" "手机+电脑+QtScrcpy-dev" "手机+电脑+escrcpy-main")
-NEW_FOLDERS=("014+手机+电脑+scrcpy安卓" "015+手机+电脑+QtScrcpy" "016+手机+电脑+escrcpy")
+OLD_FOLDERS=("014+手机+电脑+scrcpy安卓" "015+手机+电脑+QtScrcpy" "016+手机+电脑+escrcpy")
+NEW_FOLDERS=("016+手机+电脑+scrcpy安卓" "014+手机+电脑+QtScrcpy" "015+手机+电脑+escrcpy")
 # ========================================
 
 cd "$(dirname "$0")"  # 切换到脚本所在目录
